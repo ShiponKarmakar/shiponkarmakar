@@ -46,8 +46,11 @@ I'm an approved **WordPress Core Contributor** with themes and plugins published
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiponkarmakar&show_icons=true&hide_border=true&locale=en)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shiponkarmakar&layout=compact&hide_border=true&locale=en)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shiponkarmakar&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shiponkarmakar&layout=compact&hide_border=true&locale=en)](https://github.com/shiponkarmakar)
+
+> ⚠️ Top Languages card requires a self-hosted [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) instance to load reliably.
 
 </div>
 
