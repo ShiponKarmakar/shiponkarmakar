@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiponkarmakar&label=Profile%20views&color=0e75b6&style=flat" alt="shiponkarmakar" />
-  <a href="https://twitter.com/shipukarmakar"><img src="https://img.shields.io/twitter/follow/shipukarmakar?logo=twitter&style=flat&color=1DA1F2" alt="Twitter Follow" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shiponkarmakar&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://twitter.com/shipukarmakar"><img src="https://img.shields.io/twitter/follow/shipukarmakar?logo=twitter&style=flat&color=1DA1F2" /></a>
 </p>
 
 ---
@@ -22,8 +22,7 @@ I'm an approved **WordPress Core Contributor** with themes and plugins published
 - 🛠️ Building with **WordPress, Laravel, Vue.js, and LiteSpeed**
 - 🌐 Running cPanel/WHM, CloudLinux, CyberPanel, Plesk, and DirectAdmin environments
 - 💡 Organizer of the first **IT Professionals Meetup** in Brahmanbaria
-- 📫 Reach me at **hello@shiponkarmakar.com**
-- 🌍 Portfolio & blog: [shiponkarmakar.com](https://shiponkarmakar.com)
+- 📫 **hello@shiponkarmakar.com** · 🌍 [shiponkarmakar.com](https://shiponkarmakar.com)
 
 ---
 
@@ -31,25 +30,34 @@ I'm an approved **WordPress Core Contributor** with themes and plugins published
 
 **Languages & Frameworks**
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,laravel,vue,react,nextjs,nodejs,html,css,tailwind,sass)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=php,js,laravel,vue,react,nextjs,nodejs,html,css,tailwind,sass)](https://skillicons.dev)
 
 **Databases & Server**
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,linux,nginx,docker,git,aws)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,linux,nginx,docker,git,aws)](https://skillicons.dev)
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=wordpress,postman,photoshop,illustrator,xd,vscode,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=wordpress,postman,photoshop,illustrator,xd,vscode,github)](https://skillicons.dev)
 
 ---
 
 ### 📊 GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiponkarmakar&show_icons=true&locale=en&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shiponkarmakar&layout=compact&locale=en&hide_border=true) |
-|---|---|
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiponkarmakar&show_icons=true&hide_border=true&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shiponkarmakar&layout=compact&hide_border=true&locale=en)
+
+</div>
 
 ---
 
 ### 🤝 Connect
 
-<p align="left"><a href="https://linkedin.com/in/shiponkarmakar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a><a href="https://twitter.com/shipukarmakar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a><a href="https://fb.com/shiponkormoker" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a><a href="https://stackoverflow.com/users/shipon-karmakar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a><a href="https://medium.com/@shiponkarmakar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a><a href="https://www.youtube.com/@shiponkarmakar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shiponkarmakar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shipukarmakar)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/shiponkormoker)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/shipon-karmakar)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shiponkarmakar)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shiponkarmakar)
